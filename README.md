@@ -27,4 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ridhi920&show_icons=true&locale=en&theme=dark&hide_border=true" alt="ridhi920" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridhi920&theme=dark&hide_border=true" alt="ridhi920" /></p>
-<img align="center" alt="Coding" width="50%" src=""/>
+<img align="center" alt="Coding" width="50%" src="https://thumbs.dreamstime.com/b/vector-cartoon-stick-figure-drawing-conceptual-illustration-angry-man-businessman-working-computer-watching-network-168601727.jpg"/>
+<img align="right" width="50%" src"<img align="center" alt="Coding" width="50%" src="https://miro.medium.com/max/1838/1*YPiPPohH5siJU6gR-ylUvQ.gif">
