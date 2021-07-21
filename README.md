@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at mt portfolio (coming soon...)
 
 - 📫 How to reach me **ridhisoni920@gmail.com**
-
+<br><br><img align="center" alt="Coding" width="50%" src="https://miro.medium.com/max/1838/1*YPiPPohH5siJU6gR-ylUvQ.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ridhisoni920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ridhisoni920" height="30" width="40" /></a>
@@ -28,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridhi920&theme=dark&hide_border=true" alt="ridhi920" /></p>
 <img align="center" alt="Coding" width="50%" src="https://thumbs.dreamstime.com/b/vector-cartoon-stick-figure-drawing-conceptual-illustration-angry-man-businessman-working-computer-watching-network-168601727.jpg"/>
-<img align="right" width="50%" src"<img align="center" alt="Coding" width="50%" src="https://miro.medium.com/max/1838/1*YPiPPohH5siJU6gR-ylUvQ.gif">
+
