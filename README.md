@@ -1,4 +1,4 @@
-<h1 align="center">Hey!!! I'm Ridhi Soni</h1>
+<h1 align="center">Hey!!! I'm Ridhi </h1>
 <h3 align="center">A passionate frontend developer from India, I am currently pursuing B.Tech CSE from Lovely Professional University.</h3>
 
 - 🔭 I’m currently working on **many small projects.**
