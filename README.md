@@ -1,11 +1,5 @@
 <h1 align="center">Hey!!! I'm Ridhi </h1>
-<h3 align="center">A passionate frontend developer from India, I am currently pursuing B.Tech CSE from Lovely Professional University.</h3>
-
-- 🔭 I’m currently working on **many small projects.**
-
-- 🌱 I’m currently learning **Back-end.**
-
-- 👨‍💻 All of my projects are available at mt portfolio (coming soon...)
+<h3 align="center">A passionate web developer</h3>
 
 - 📫 How to reach me **ridhisoni920@gmail.com**
 <br><br><img align="center" alt="Coding" width="50%" src="https://miro.medium.com/max/1838/1*YPiPPohH5siJU6gR-ylUvQ.gif">
